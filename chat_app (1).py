@@ -70,7 +70,8 @@ if st.sidebar.button("🔄 Reset Conversation"):
     st.experimental_rerun()
 
 
-st.markdo('**Design and Developed by: Aditya Chaturvedi**')
+st.markdown('**Design and Developed by: Aditya Chaturvedi**')
+
 
 
 
